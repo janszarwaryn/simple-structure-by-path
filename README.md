@@ -27,7 +27,7 @@ Do uruchomienia programu wymagane jest:
 1. Pobierz plik z programem `path-generator.py` (zamień `path-generator.py` na rzeczywistą nazwę pliku).
 2. Otwórz terminal (na macOS) lub wiersz poleceń (na Windows).
 3. Przejdź do katalogu, w którym znajduje się plik programu. Możesz to zrobić, używając polecenia `cd ścieżka_do_folderu` (zamień `ścieżka_do_folderu` na rzeczywistą ścieżkę do folderu).
-4. Uruchom program, wpisując `python3 nazwa_pliku.py` (zamień `nazwa_pliku.py` na rzeczywistą nazwę pliku) i naciskając Enter.
+4. Uruchom program, wpisując `path-generator.py` (zamień `path-generator.py` na rzeczywistą nazwę pliku) i naciskając Enter.
 
 ## Używanie programu
 
